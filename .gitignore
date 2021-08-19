@@ -1,0 +1,4 @@
+*.MOV
+expose_params/**
+images/**
+landmarks/**
